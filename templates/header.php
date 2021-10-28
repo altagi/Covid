@@ -9,7 +9,7 @@
   <title>Data Kasus Covid-19 di Indonesia</title>
   <meta content="Informasi terbaru kasus Virus Corona di Indonesia. Data di website akan selalu di update secara otomatis dan berasal dari Johns Hopkins University" name="description">
 
-  <meta content="Data Corona, Corona Indonesia, Corona Sumsel, Corona Kab.Empat Lawang, Covid19" name="keywords">
+  <meta content="Data Corona, Corona Indonesia, Covid19, Corona Virus" name="keywords">
 
   <!-- Favicons -->
   <link href="vendor/img/attack.jpg" rel="icon">
@@ -48,8 +48,8 @@
           <li><a class="nav-link scrollto" href="#indonesia">Indonesia</a></li>
           <li><a class="nav-link scrollto" href="#provinsi">Provinsi</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="https://covid19.go.id/edukasi/pengantar">Edukasi</a></li>
-          <li><a class="nav-link scrollto text-danger" href="https://covid19.go.id/p/hoax-buster">Info Hoax</a></li>
+          <li><a class="nav-link scrollto" href="https://covid19.go.id/edukasi/pengantar" target="_blank">Edukasi</a></li>
+          <li><a class="nav-link scrollto text-danger" href="https://covid19.go.id/p/hoax-buster" target="_blank">Info Hoax</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
