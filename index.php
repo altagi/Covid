@@ -1,4 +1,4 @@
-<?php include 'templates/header.php' ?>
+<?php include 'templates/header.php'; ?>
 
 <!-- ======= Hero ======= -->
 <section id="hero" class="hero d-flex align-items-center">
@@ -213,4 +213,4 @@
 
 </main>
 
-<?php include 'templates/footer.php' ?>
+<?php include 'templates/footer.php'; ?>
